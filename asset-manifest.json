@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/IlliaKlason/goit-react-hw-01-components/static/css/main.2685c457.css",
-    "main.js": "/IlliaKlason/goit-react-hw-01-components/static/js/main.7951470c.js",
-    "index.html": "/IlliaKlason/goit-react-hw-01-components/index.html",
-    "main.2685c457.css.map": "/IlliaKlason/goit-react-hw-01-components/static/css/main.2685c457.css.map",
-    "main.7951470c.js.map": "/IlliaKlason/goit-react-hw-01-components/static/js/main.7951470c.js.map"
+    "main.css": "/goit-react-hw-01-components/static/css/main.2685c457.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.7951470c.js",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "main.2685c457.css.map": "/goit-react-hw-01-components/static/css/main.2685c457.css.map",
+    "main.7951470c.js.map": "/goit-react-hw-01-components/static/js/main.7951470c.js.map"
   },
   "entrypoints": [
     "static/css/main.2685c457.css",
