@@ -1,12 +1,9 @@
 import PropTypes from 'prop-types';
 import styles from './FriendList.module.css';
 import FriendListItem from './FriendListItem';
-
 function FriendList({ friends }) {
-   if (true) {
-      console.log(friends);
+ 
 
-   }
 
    return (
       <ul className={styles['friend-list']}>
